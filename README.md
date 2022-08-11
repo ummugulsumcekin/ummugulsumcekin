@@ -15,7 +15,7 @@
 
 <br>
 
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
+ [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ummugulsumcekın.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
 
 ### Languages and Tools:
 
@@ -53,7 +53,7 @@
 <img align="left" alt="kotlin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 <img align="left" alt="jetpack-compose" width="40px" height="40" src="https://i2.wp.com/blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png?ssl=1" />
 
-**rmya/rmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ummugulsumcekın/ummugulsumcekın** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
