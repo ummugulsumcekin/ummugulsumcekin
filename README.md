@@ -31,18 +31,14 @@
  
 <details>
  
-  <summary>:zap: GitHub Stats</summary>
-
-  ![rmya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmya&count_private=true&show_icons=true&theme=react&layout=compact)
-
+  
 </details>
 
 <details>
  
   <summary>:zap: Top Languages</summary>
 
-  <img align="left" alt="rmya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&layout=compact&theme=react&hide=html" />
-
+  
 </details>
 
 
