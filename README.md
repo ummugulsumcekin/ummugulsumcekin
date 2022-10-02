@@ -9,6 +9,7 @@
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="ummugulsumcekın | LinkedIn" width="40px" />](https://www.linkedin.com/in/ummugulsumcekın/)
 
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="ummugulsumcekın | LinkedIn" width="40px" />](https://www.instagram.com/ummugulsumcekin/)
 
 <br>
 <br />
