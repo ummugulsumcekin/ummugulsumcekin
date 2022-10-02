@@ -15,7 +15,7 @@
 
 <br>
 
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ummugulsumcekın.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
+ 
 
 ### Languages and Tools:
 
