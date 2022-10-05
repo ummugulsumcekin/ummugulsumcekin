@@ -24,7 +24,7 @@
 
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 
-<img align="left" alt="MicrosoftOffice" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
+<img align="left" alt="MicrosoftOffice" height="40" src="https://img.icons8.com/color/40/000000/MicrosoftOffice.png"/>
 
 <img align="left" alt="jira" height="40" src="https://img.icons8.com/color/40/000000/jira.png"/>
 
