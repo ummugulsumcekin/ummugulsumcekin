@@ -30,6 +30,8 @@
 
 <img align="left" alt="jira" height="40" src="https://img.icons8.com/color/40/000000/jira.png"/>
 
+<img align="left" alt="figma" height="40" src="https://worldvectorlogo.com/logo/figma-1/>
+
 
 
  
