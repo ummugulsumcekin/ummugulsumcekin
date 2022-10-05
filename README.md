@@ -26,11 +26,7 @@
 
 <img align="left" alt="MicrosoftOffice" height="40" src="[https://img.icons8.com/color/40/000000/postgreesql.png](https://www.logo.wine/logo/Microsoft_Office)"/>
 
-<img align="left" alt="jira" height="40" src="https://worldvectorlogo.com/logo/jira-1"/>
-	
-
-
-
+<img align="left" alt="jira" height="40" src="<a href="https://seekvectorlogo.com/jira-software-vector-logo-svg/" target="_blank"> <img src="https://seekvectorlogo.com/wp-content/uploads/2019/04/jira-software-vector-logo.
 
 
 
