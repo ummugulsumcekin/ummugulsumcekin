@@ -28,11 +28,6 @@
 
 
 
- 
-  <summary>:zap: Top Languages</summary>
-
-  
-</details>
 
 
 
