@@ -23,6 +23,10 @@
 <img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
 
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
+
+<img align="left" alt="Microsoft_Office" height="40" src="[https://img.icons8.com/color/40/000000/postgreesql.png](https://www.logo.wine/logo/Microsoft_Office)"/>
+
+<img align="left" alt="jira" height="40" src="[https://worldvectorlogo.com/logo/jira-1"/>
 	
 
 
