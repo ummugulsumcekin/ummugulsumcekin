@@ -24,9 +24,9 @@
 
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 
-<img align="left" alt="Microsoft_Office" height="40" src="[https://img.icons8.com/color/40/000000/postgreesql.png](https://www.logo.wine/logo/Microsoft_Office)"/>
+<img align="left" alt="MicrosoftOffice" height="40" src="[https://img.icons8.com/color/40/000000/postgreesql.png](https://www.logo.wine/logo/Microsoft_Office)"/>
 
-<img align="left" alt="jira" height="40" src="[https://worldvectorlogo.com/logo/jira-1"/>
+<img align="left" alt="jira" height="40" src="https://worldvectorlogo.com/logo/jira-1](https://worldvectorlogo.com/logo/jira-1"/>
 	
 
 
