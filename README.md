@@ -12,10 +12,6 @@
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" align="left" alt="ummugulsumcekın | instagram" width="40px" />](https://www.instagram.com/ummugulsumcekin/)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="ummugulsumcekın | twitter" width="40px" />](https://twitter.com/ummuglsmcekin)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" align="left" alt="ummugulsumcekın | medium" width="40px" />](https://medium.com/@ummugulsumcekin)
-<br>
-<br />
-
-<br>
 
  
 
@@ -26,17 +22,7 @@
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 	
 
-<br>
-<br />
 
-<br>
- 
-<details>
- 
-  
-</details>
-
-<details>
  
   <summary>:zap: Top Languages</summary>
 
