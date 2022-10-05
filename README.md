@@ -14,6 +14,9 @@
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" align="left" alt="ummugulsumcekın | medium" width="40px" />](https://medium.com/@ummugulsumcekin)
 
  
+ 
+ 
+ 
 
 ### Languages and Tools:
 
@@ -21,6 +24,8 @@
 
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 	
+
+
 
 
  
