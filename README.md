@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there I`m Ummugulsum Cekin </h1>
  
-👋 Welcome to my repository
+👋 Welcome to my repository.
+🌱 I’m currently learning [**SwiftUI**] and [**UIKit**]
 
 ## I`m iOS Developer
  🥅 I am a self-taught iOS developer with a strong understanding of the Swift programming language, a passion for developing software and with Civil Engineering degree. I decided that I should follow my passion and get involved in programming, so I quit my job and start learning Swift and SwiftUI . Ability to effectively share technical information, communicate technical issues and solutions to all levels of business. Able to juggle multiple projects - can identify primary and secondary objectives, prioritize time, and communicate timeline to team members. Innovative, committed to continuously improving skills and processes. Enthusiastic, entrepreneur, resilient, tenacious, adaptable, collaborative.
