@@ -23,6 +23,8 @@
 
 <img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
 
+<img align="left" alt="swiftuı" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swiftuı/swiftuı-icon.svg" />
+
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 
 <img align="left" alt="sqlite" height="40" src="https://seekvectorlogo.com/wp-content/uploads/2019/07/sqlite-vector-logo.png" />
