@@ -27,7 +27,7 @@
 
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 
-<img align="left" alt="sqlite" height="40" src="https://seekvectorlogo.com/wp-content/uploads/2019/07/sqlite-vector-logo.png" />
+<img align="left" alt="sqlite" height="40" src="https://seekvectorlogo.com/wp-content/uploads/2019/07/sqlite-vector-logo.png"/>
 
 <img align="left" alt="slack" height="40" src="https://seekvectorlogo.com/wp-content/uploads/2019/05/slack-technologies-vector-logo.png"/>
 
