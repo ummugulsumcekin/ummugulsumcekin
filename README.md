@@ -23,7 +23,7 @@
 
 <img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
 
-<img align="left" alt="c-sharp" height="40" src="https://icons8.com/icon/55251/c-sharp-logo"/>
+<img align="left" alt="c-sharp" height="40" src="https://img.icons8.com/icon/55251/c-sharp-logo/.png"/>
 
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 
