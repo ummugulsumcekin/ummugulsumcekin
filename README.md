@@ -27,6 +27,6 @@
 
 
 
-                                             💬 Ask me about **iOS, UIKit**  Let's connect!
+                                   <p align="center">💬 Ask me about **iOS, UIKit**  Let's connect!<p align="center">
 
 
