@@ -1,5 +1,19 @@
-<h1 align="center">👋 Hey there, I'm Ummugulsum Cekin! 🚀</h1>
-<p align="center">
+<h1 align="center"><span style="animation: pulse 2s infinite;">👋 Hey there, I'm Ummugulsum Cekin! 🚀</span></h1>
+
+<style>
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+</style>
+
   <a href="https://www.linkedin.com/in/ummugulsumcekın/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ummugulsumcekin/"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ummuglsmcekin"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
