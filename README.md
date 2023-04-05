@@ -21,9 +21,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
 
-<img align="left" alt="c-sharp" height="40" src="https://img.icons8.com/icon/55251/c-sharp-logo.png"/>
+<img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
 
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 
