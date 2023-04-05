@@ -12,14 +12,8 @@
 <p align="center">🔭 Here are some of the tools and technologies I use:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React%20JS-blue?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MS%20SQL%20Server-red?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
