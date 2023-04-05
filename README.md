@@ -35,7 +35,7 @@
 
 <img align="left" alt="figma" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
-<img align="left" alt="figma" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="firebase" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
 
  
