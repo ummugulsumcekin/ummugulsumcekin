@@ -1,4 +1,5 @@
-👋 Hey there, I'm Ummugulsum Cekin! 🚀
+<h1 align="center">👋 Hey there, I'm Ummugulsum Cekin! 🚀</h1>
+<p align="center">
 
   <a href="https://www.linkedin.com/in/ummugulsumcekın/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ummugulsumcekin/"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
