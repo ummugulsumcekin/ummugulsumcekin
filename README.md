@@ -27,4 +27,10 @@
 <p align="center">💬 Ask me about **iOS, UIKit**  Let's connect!
 <p align="center">
 
+  
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="ummugulsumcekın | LinkedIn" width="40px" />](https://www.linkedin.com/in/ummugulsumcekın/)
 
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" align="left" alt="ummugulsumcekın | instagram" width="40px" />](https://www.instagram.com/ummugulsumcekin/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="ummugulsumcekın | twitter" width="40px" />](https://twitter.com/ummuglsmcekin)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" align="left" alt="ummugulsumcekın | medium" width="40px" />](https://medium.com/@ummugulsumcekin)
+  
