@@ -27,7 +27,7 @@
 <p align="center">💬 Ask me about **iOS, UIKit**  Let's connect!
 <p align="center">
 
-  ### Connect with me:
+ <p align="center"> ### Connect with me:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="ummugulsumcekın | LinkedIn" width="40px" />](https://www.linkedin.com/in/ummugulsumcekın/)
 
@@ -38,3 +38,4 @@
  
  
  <br>
+<p align="center">
