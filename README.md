@@ -1,5 +1,11 @@
 <h1 align="center">👋 Hey there, I'm Ummugulsum Cekin! 🚀</h1>
 <p align="center">
+  <a href="https://www.linkedin.com/in/ummugulsumcekın/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ummugulsumcekin/"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ummuglsmcekin"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@ummugulsumcekin"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   
   
 <p align="center"> 🌱 I'm currently learning C# and I'm an iOS developer with a passion for creating software that makes a difference.      
@@ -26,13 +32,3 @@
 
 <p align="center">💬 Ask me about **iOS, UIKit**  Let's connect!
 <p align="center">
-
-### Connect with me:
-
-
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="ummugulsumcekın | LinkedIn" width="40px" />](https://www.linkedin.com/in/ummugulsumcekın/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" align="left" alt="ummugulsumcekın | instagram" width="40px" />](https://www.instagram.com/ummugulsumcekin/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="ummugulsumcekın | twitter" width="40px" />](https://twitter.com/ummuglsmcekin)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" align="left" alt="ummugulsumcekın | medium" width="40px" />](https://medium.com/@ummugulsumcekin)
-<br>
-
