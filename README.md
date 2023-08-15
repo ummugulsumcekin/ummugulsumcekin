@@ -35,7 +35,9 @@
 </p>
 
 <p align="center">
-  💬 Ask me about iOS, UIKit,.Net,#C Development . Let's connect!
+  
+  💬 Ask me about iOS, UIKit,.Net,#C Development. Let's connect!
+  
 </p>
 <p align="center">
  <p align="center">
