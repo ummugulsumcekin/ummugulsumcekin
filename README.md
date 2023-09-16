@@ -14,6 +14,7 @@
       <img src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
       <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
       <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
       <img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
@@ -31,7 +32,7 @@
       <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
       <img src="https://img.shields.io/badge/-UIKit-blue?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
       <img src="https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-          <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+          
     </p>
 
 <p align="center">
