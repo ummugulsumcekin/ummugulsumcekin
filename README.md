@@ -7,7 +7,7 @@
 </p>
 
  <p align="center">
-      🔭 Here are some of the tools, technologies, and skills I use:
+      🔭 Here are some of the tools, technologies and skills I use:
     </p>
     <p align="center">
       <img src="https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
