@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/-UIKit-blue?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
       <img src="https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
           
-    </p>
+</p>
 
 <p align="center">
    💬 Ask me about .Net,#C Development,iOS, UIKit. Let's connect!
