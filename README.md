@@ -6,34 +6,64 @@
   🌱 I've passion for creating software that makes a difference. 🚀 I have been learning and writing code for over 1,5 year now, and during this time, I have realized the importance of having a strong foundation in all aspects of software development. As a result, I have decided to pursue a full stack education to deepen my knowledge and skills in this field. My background in engineering, coupled with my passion for software development, has enabled me to effectively share technical information and communicate technical issues and solutions to stakeholders at all levels of business. I am adept at juggling multiple projects, identifying primary and secondary objectives, prioritizing time, and communicating timelines to team members. I am constantly seeking new ways to innovate, improve my skills and processes, and collaborate with others. 🚀
 </p>
 
- <p align="center">
+ 
+  <img src="https://raw.githubusercontent.com/ummugulsumcekin/ummugulsumcekin/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ummugulsumcekin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ummugulsumcekin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<p align="center">
       🔭 Here are some of the tools, technologies and skills I use:
     </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-      <img src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-      <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-      <img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-      <img src="https://img.shields.io/badge/-MSSQL-red?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
-      <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/-SQL%20Server%20Management%20Studio-blue?style=for-the-badge&logo=sql-server&logoColor=white" alt="SQL Server Management Studio"/>
-      <img src="https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/-JIRA-blue?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
-      <img src="https://img.shields.io/badge/-Trello-blue?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-      <img src="https://img.shields.io/badge/-Slack-purple?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-      <img src="https://img.shields.io/badge/-MS%20Project-blue?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="MS Project"/>
-      <img src="https://img.shields.io/badge/-MS%20Office-black?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
-      <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/-UIKit-blue?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
-      <img src="https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-          
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
+
+###
 
 <p align="center">
    💬 Ask me about .Net,#C Development,iOS, UIKit. Let's connect!
