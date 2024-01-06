@@ -6,10 +6,6 @@
   🌱 I've passion for creating software that makes a difference. 🚀 I have been learning and writing code for over 1,5 year now, and during this time, I have realized the importance of having a strong foundation in all aspects of software development. As a result, I have decided to pursue a full stack education to deepen my knowledge and skills in this field. My background in engineering, coupled with my passion for software development, has enabled me to effectively share technical information and communicate technical issues and solutions to stakeholders at all levels of business. I am adept at juggling multiple projects, identifying primary and secondary objectives, prioritizing time, and communicating timelines to team members. I am constantly seeking new ways to innovate, improve my skills and processes, and collaborate with others. 🚀
 </p>
 
- 
-  <img src="https://raw.githubusercontent.com/ummugulsumcekin/ummugulsumcekin/output/snake.svg" alt="Snake animation" />
-
-
 
 <div align="center">
  
@@ -62,6 +58,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
+
+###
+<img src="https://raw.githubusercontent.com/ummugulsumcekin/ummugulsumcekin/output/snake.svg" alt="Snake animation" />
 
 ###
 
