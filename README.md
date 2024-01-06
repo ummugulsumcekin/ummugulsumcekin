@@ -60,7 +60,8 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/ummugulsumcekin/ummugulsumcekin/output/snake.svg" alt="Snake animation" />
+[<img src="https://raw.githubusercontent.com/ummugulsumcekin/ummugulsumcekin/output/snake.svg" alt="Snake animation" />](https://raw.githubusercontent.com/ummugulsumcekin/ummugulsumcekin/output/snake.svg
+)
 
 ###
 
