@@ -60,13 +60,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-
-[<p align="center">
+<p align="center">
   <a href="https://github.com/ummugulsumcekin">
-    <img height="300" width="800" alt="Snake Game" src="https://raw.githubusercontent.com/ummugulsumcekin/ummugulsumcekin/output/github-contribution-grid-snake.svg">
+    <img height="300" width="800" alt="Snake Game" src="https://raw.githack.com/ummugulsumcekin/ummugulsumcekin/main/github-contribution-grid-snake.svg">
   </a>
-</p>](https://raw.githack.com/ummugulsumcekin/ummugulsumcekin/main/github-contribution-grid-snake.svg
-)
+</p>
+
 
 
 
