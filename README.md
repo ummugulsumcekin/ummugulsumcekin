@@ -7,10 +7,11 @@
 </p>
 
 
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ummugulsumcekin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/ummugulsumcekin">
+    <img height="300" width="800" alt="Snake Game" src="https://raw.githack.com/ummugulsumcekin/ummugulsumcekin/main/github-contribution-grid-snake.svg">
+  </a>
+</p>
 
 <p align="center">
       🔭 Here are some of the tools, technologies and skills I use:
